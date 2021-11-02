@@ -1,0 +1,49 @@
+
+.header{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: rgb(46, 196, 46);
+}
+.sub_header_1{
+    font-family: 'Roboto', sans-serif;
+}
+.sub_header_2{
+    font-family: 'Roboto', sans-serif;
+}
+.sub_header_3{
+    font-family: 'Roboto', sans-serif;
+}
+.paragraph_1{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+}
+.photo{
+    margin-top: 40px;
+    width: 300px; 
+}
+.text_1{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 40px;
+}
+.paragraph_2{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 40px;
+}
+.text_2{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 40px;
+}
+.paragraph_3{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 40px;
+}
+.text_3{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+}
+a{
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    padding-top: 5px;
+    
+}
